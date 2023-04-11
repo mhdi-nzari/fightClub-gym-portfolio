@@ -2,7 +2,7 @@
   "name": "fitclub",
   "version": "0.1.0",
   "private": false,
-  "homepage": "https://github.com/mhdi-nzari/fightClub-gym-portfolio",
+  "homepage": "https://github.com/mhdi-nzari/",
   "dependencies": {
     "@emailjs/browser": "^3.6.2",
     "@testing-library/jest-dom": "^5.16.4",
